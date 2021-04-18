@@ -1,9 +1,6 @@
-
-![Poster with my name](https://github.com/GuruCharan94/GuruCharan94/blob/master/gurucharan-github.png?raw=true)
-
 # Welcome to my GitHub
 
-I am Gurucharan from Bangalore, India. I am a Software Engineer at ABB working on emission free transportation with Electric Vehicle Chargers and IoT. 
+I am Gurucharan. I am a Software Engineer at ABB working on emission free transportation with Electric Vehicle Chargers and IoT. 
 
 I work with .NET, Azure & Azure DevOps. On some days I am Dev, on other days I am Ops and frequently many things in between.
 
